@@ -3,7 +3,8 @@
 A React Native project using **Expo** and **Bluetooth Low Energy (BLE)** to connect with heart rate monitor devices like the Elite HRV. This project demonstrates how to scan, connect, and read data (e.g., heart rate) from a BLE peripheral using modern Expo workflows.
 
 ---
-![Uploading 1.png…]()
+![1](https://github.com/user-attachments/assets/37d229c1-7175-4ab0-9a2a-796ead0583e8)
+
 
 ## 🚀 Features
 
